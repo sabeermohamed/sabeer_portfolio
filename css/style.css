@@ -157,7 +157,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #profile .portrate {
-	background-image: url(../img/vinoth.jpg);
+	background-image: url(../img/sabeer.jpg);
 	width: 125px;
 	margin: 0 auto;
 	height: 125px;
@@ -1117,11 +1117,11 @@ ul.grid li a,ul.grid li img {
 /* contanct
  **************************************************/
 .contact-office {
-	background: #fff url('../img/contact-office.jpg') no-repeat;
+	background: #fff url('../img/gallery/mumbaiflight.jpg') no-repeat;
 }
 
 .contact-lab {
-	background: #000 url('../img/contact-lab.jpg') no-repeat;
+	background: #000 url('../img/gallery/mumbaiflight.jpg') no-repeat;
 	color: #fff;
 }
 
